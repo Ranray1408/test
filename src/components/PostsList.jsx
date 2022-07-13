@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState } from 'react';
 import Post from './Posts';
 import Button from './UI/button/Button';
 import Input from './UI/input/Input';
